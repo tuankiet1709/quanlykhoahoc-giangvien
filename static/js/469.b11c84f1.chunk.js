@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcnpmnc_project=self.webpackChunkcnpmnc_project||[]).push([[469],{6469:function(e,n,c){c.r(n);c(2791);var r=c(1808),s=c(184);n.default=function(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsxs)("div",{className:"ml-5",children:[(0,s.jsx)("h2",{className:"primaryColor text-title intro-x",children:"Th\xeam gi\u1ea3ng vi\xean m\u1edbi"}),(0,s.jsx)("div",{className:"row",children:(0,s.jsx)(r.Z,{})})]})})}}}]);
+//# sourceMappingURL=469.b11c84f1.chunk.js.map

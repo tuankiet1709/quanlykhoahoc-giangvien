@@ -1,0 +1,18 @@
+.nav-left {
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-left .navItem button {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2px;
+    padding: 1rem;
+    font-weight: bold;
+}
+.nav-left .navItem.active .btnCustom {
+    background-color: rgba(207, 35, 56, 1);
+    color: aliceblue;
+}
+.nav-left .brand {
+    color: rgba(207, 35, 56, 1);
+}

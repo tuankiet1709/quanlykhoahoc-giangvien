@@ -1,0 +1,19 @@
+export default class Course {
+    constructor(
+        name,
+        content,
+        detail,
+        startDate,
+        endDate,
+        studyCondition,
+        tuition,
+    ){
+        this.name=name;
+        this.content=content;
+        this.detail=detail;
+        this.startDate=startDate;
+        this.endDate=endDate;
+        this.studyCondition=studyCondition;
+        this.tuition=tuition;
+    }
+}

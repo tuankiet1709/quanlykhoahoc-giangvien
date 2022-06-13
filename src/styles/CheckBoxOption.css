@@ -1,0 +1,9 @@
+.custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: rgba(207, 35, 56, 1);
+    background-color: rgba(207, 35, 56, 1);
+    box-shadow: none;
+}
+.custom-control {
+    z-index: 0;
+}

@@ -1,0 +1,54 @@
+.modal-90w .modal-header {
+    background-color: rgba(239, 241, 245, 1);
+}
+.modal-90w .modal-header .modal-title {
+    color: rgba(207, 35, 56, 1);
+    font-weight: bold;
+}
+.border-top-5 {
+    border-top: 2px solid black;
+}
+.modal-650w {
+    width: 650px !important;
+}
+.modal-mt {
+    margin-top: 1rem !important;
+}
+.modal-content {
+    width: 100%;
+    border: 0px;
+    border-radius: 10px;
+    position: absolute;
+}
+.containerModal {
+    top: 30%;
+    left: 10%;
+}
+.containerModalErr {
+    top: 5%;
+    left: 12%;
+}
+.headerModal {
+    background-color: #eff1f5;
+    border: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px 40px;
+    font-family: Segoe UI, Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: #cf2338;
+}
+.bodyModal {
+    font-family: Segoe UI, Arial;
+    padding: 30px 40px 30px 40px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #fafcfc;
+    border: 1px solid black;
+}
+.onhover-gray:hover {
+    background-color: gray;
+}
+.btn-border {
+    border: 1px solid black;
+}
